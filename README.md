@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil 💙
+## Bem vindo ao meu perfil 🍁
 
 Meu nome é Gabrielle
 
@@ -6,7 +6,7 @@ Meu nome é Gabrielle
 - Estou desenvolvendo a linguagem JavaScript
 - uso esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### voce pode entrar em contato comigo 📧
+### voce pode entrar em contato comigo 💙
 
 gabriellegusman12@gmail.com
 
